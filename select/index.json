@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "言葉にして",
+  "base_artist": "This is LAST",
+  "createdAt": "2026-01-13T23:08:24.979352Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "言葉にして",
+      "artist": "This is LAST",
+      "has_synced": false,
+      "path": "select/pl_01_言葉にして_This_is_LAST.txt"
+    }
+  ]
+}
